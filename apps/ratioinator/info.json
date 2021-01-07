@@ -1,0 +1,12 @@
+{
+  "name": "Ratio-inator",
+  "description": "Changes images' aspect ratio without cropping it.\nCan be used to avoid Twitter image cropping.",
+  "authors": [
+    "ChicIsCoolio"
+  ],
+  "version": "1.0",
+  "banner": "",
+  "images": [
+    ""
+  ]
+}
