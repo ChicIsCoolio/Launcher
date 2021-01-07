@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "id": "ratioinator",
+      "access": "public",
+      "info": "https://raw.githubusercontent.com/ChicIsCoolio/Launcher/main/apps/ratioinator/info.json"
+    },
+    {
+      "id": "thegame",
+      "access": "private",
+      "info": "https://raw.githubusercontent.com/ChicIsCoolio/Launcher/main/apps/thegame/info.json"
+    }
+  ],
+  "access": [
+    {
+      "id": "thegame",
+      "users": [
+        "ChicIsCoolio"
+      ]
+    }
+  ]
+}
