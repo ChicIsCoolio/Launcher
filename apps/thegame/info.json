@@ -1,0 +1,14 @@
+{
+  "name": "The Game",
+  "description": "secret",
+  "authors": [
+    "ChicIsCoolio"
+  ],
+  "version": "0.0",
+  "download": "none",
+  "encryption": "none",
+  "banner": "https://raw.githubusercontent.com/ChicIsCoolio/Launcher/main/apps/ratioinator/banner.png",
+  "images": [
+    "https://raw.githubusercontent.com/ChicIsCoolio/Launcher/main/apps/ratioinator/banner.png"
+  ]
+}
